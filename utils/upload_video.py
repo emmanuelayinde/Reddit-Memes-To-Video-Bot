@@ -148,4 +148,4 @@ if __name__ == '__main__':
         "keywords":"meme, redditmeme",
         "privacyStatus":"public"
     }
-    update_video(video_data)
+    # update_video(video_data)

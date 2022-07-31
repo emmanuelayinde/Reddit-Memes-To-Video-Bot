@@ -3,6 +3,7 @@
 /data
 __pycache__
 client_secrets.json
+main.py-oauth2.json
 *.json
 *.mp4
 video.mp4
