@@ -1,0 +1,32 @@
+email = laughingifyoursmart@gmail.com
+password = laughinggiant28
+
+STEP 1:
+   Extract the zip file containing the bot Scripts and open in VS Code 
+
+STEP 2: 
+   Go to extensions market (ctrl + shift + X)
+
+STEP 3:
+   a. Open your terminal and type - pip install virtualenv      
+   b. type in the terminal - virtualenv give-virtualenv-name  (e.g virtualenv my-env)
+   c. Activate virtualenv using the command - env\Scripts\activate
+
+STEP 4: 
+   Install the packages/libs needed for the bot - pip install -r requirements.txt
+
+STEP 5:
+   Copy the imagemagick path from your window explorer and paste it in the .env file in front of IMAGEMAGICK_BINARY
+
+STEP 6: 
+   Confirm the interpreter is pointing to your virtualenv (my-env)       
+   
+STEP 7:
+   Run program for first time to authenticated youtube v3 api user using the appropriate email account
+
+
+
+
+
+
+   

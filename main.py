@@ -45,4 +45,4 @@ while True:
     upload_video(video_data)
 
     # Sleep until ready to post another video!
-    time.sleep(60 * 60 * 6)
+    time.sleep(60 * 60 * 1)
